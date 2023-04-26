@@ -1,9 +1,10 @@
-# Simple React & Typescript todo app
+# Simple Todo app
 
-### `npm start`
+### `Tools`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Typescript
+- React
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### `Website`
+Open [Todo app](https://typescript-react-todoapp.netlify.app/) to view it in the browser.
+
